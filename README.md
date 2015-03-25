@@ -1,5 +1,8 @@
 ### LineControl Editor
-LineControl allows you to add a beautiful, responsive and fast online Text Editor to your web application/site. LineControl is designed to work with Twitter Bootstrap and as a Jquery Plugin. To add the plugin to your project, just include the JS and CSS files to your HTML template:
+LineControl allows you to add a beautiful, responsive and fast online Text Editor to your web application/site.
+(Added server side image upload and delete feature)
+LineControl is designed to work with Twitter Bootstrap and as a Jquery Plugin. To add the plugin to your project, just include the JS and CSS files to your HTML template:
+
 ```
 <script src="editor.js"></script>
 <link type="text/css" href="editor.css" rel="stylesheet"/>
