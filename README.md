@@ -9,6 +9,10 @@ and then in your script section just call:
 ```
 var editor = $("#placeHolder").Editor();
 ```
+or use it like this
+```
+@Html.LineEdit(m=>m.Name,"controlerid");
+```
 
 ### Dependencies
 LineControl is built as a JQuery Plugin and supports Jquery 2.1.0. LineControl is also built for responsiveness and uses Twitter Bootstrap and Font-Awesome icons to render its Interface. The following is required for your LineControl to function perfectly
